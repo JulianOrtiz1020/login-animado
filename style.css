@@ -185,23 +185,4 @@ input[type="submit"]:active
     opacity: 0.8;
 }
 
-@media screen and (max-width:800px){
-    .main{
-        width: 100%;
-    }
-    aside{
-        width: 100%;
-    }
-    
-}
-
-@media screen and (max-width:400px){
-    .contenedor{
-        width: 80%;
-    }
-    aside{
-        display:none;
-    }
-    
-}
 
