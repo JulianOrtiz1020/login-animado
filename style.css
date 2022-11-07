@@ -21,7 +21,7 @@ body{
     position: relative;
     width: 380px;
     height: 420px;
-    background: #1c1c1c;
+    background: #18fa04;
     border-radius: 8px;
     overflow: hidden;
 }
@@ -35,7 +35,7 @@ body{
     width: 380px;
     height: 420px;
     transform-origin: bottom right;
-    background: linear-gradient(0deg,transparent,#45f3ff,#45f3ff);    
+    background: linear-gradient(0deg,transparent,#e10909,#e10909);    
     animation: animate 6s linear infinite;
     
 }
@@ -117,7 +117,7 @@ h2
     padding: 20px 0px 10px;
     pointer-events: none;
     font-size: 1em;
-    color: #8f8f8f;
+    color: #4c9330;
     letter-spacing: 00.05em;
     transition: 0.5s;    
 }
@@ -160,14 +160,14 @@ h2
 {
     margin: 10px 0px;
     font-size: 0.75em;
-    color: #8f8f8f;
+    color: #e10909;
     text-decoration: beige;
 
 }
 
 .links a:hover,
 .links a:nth-child(2){
-    color: #45f3ff;
+    color: #24af05;
 }
 
 input[type="submit"]
