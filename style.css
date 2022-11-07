@@ -197,7 +197,7 @@ input[type="submit"]:active
 
 @media screen and (max-width:400px){
     .contenedor{
-        width: 100%;
+        width: 80%;
     }
     aside{
         display:flex;
